@@ -1,4 +1,4 @@
-.header {
+/* .header {
   padding: 20px 0;
 }
 .nav {
@@ -9,7 +9,7 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-}
+} */
 .nav-list {
   display: flex;
   align-items: center;
